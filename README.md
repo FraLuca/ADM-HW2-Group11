@@ -22,8 +22,9 @@ There are approximately 8 million of data for each month considered. The huge nu
 > __`NAME.ipynb`__ 
 
 This script is divided in this way:
-- First we Download and sample the data, then we remove all the strange data and those that seemed us wrong.
+- First we download and sample the data, then we remove all the strange data and those that seemed us wrong.
 - Then we answer to all 5 Research Questions explaining the results through plots.
 - Finally we make all the Core Research Questions.
+
 A detailed description is provided in the file. 
 
