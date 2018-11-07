@@ -3,9 +3,12 @@ Homework 2 for ADM exam of DATA SCIENCE. Made by group 11
 
 ## Analysis of Taxis in NYC
 In this homework we perform an analysis of NYC's taxis. In particular we answer to some specific *Research Question* about mobility in the different boroughs, months, time slots, trips last, and the payment way. Then we perform 2 analysis:
+
   - We use a Chi-squared test to see whether the method of payment is correlated to the borough.
   - We compute Pearson coefficient to see if the distance has a linear correlation with the duration of the trip on average.
+  
 At the end we answer to 2 *Core Reasearch Question*:
+
   - We see if the distributions of the Fare for each borough are statistically significant. And we do the same thing considering the Fare over the trip last to mitigate the traffic's effect.
   - We visualize on NYC map what is the frequency of the zones where the Taxi pick up and drop off the users.
  
