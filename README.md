@@ -31,3 +31,8 @@ This script is divided in this way:
 
 A detailed description is provided in the file. 
 
+## Visualization Problem
+
+If you can't see some plot or map please try to see at this link: 
+
+
